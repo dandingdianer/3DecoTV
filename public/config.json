@@ -1,152 +1,56 @@
 {
-  "sites": [
-    {
+  "cache_time": 7200,
+  "api_site": {
+    "dyttzy": {
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod",
       "name": "电影天堂资源",
-      "type": "custom",
-      "url": "http://caiji.dyttzyapi.com/api.php/provide/vod"
+      "detail": "http://caiji.dyttzyapi.com"
     },
-    {
+    "ruyi": {
+      "api": "https://cj.rycjapi.com/api.php/provide/vod",
       "name": "如意资源",
-      "type": "custom",
-      "url": "https://cj.rycjapi.com/api.php/provide/vod"
+      "detail": "https://cj.rycjapi.com"
     },
-    {
+    "bfzy": {
+      "api": "https://bfzyapi.com/api.php/provide/vod",
       "name": "暴风资源",
-      "type": "custom",
-      "url": "https://bfzyapi.com/api.php/provide/vod"
+      "detail": "https://bfzyapi.com"
     },
-    {
+    "tyys": {
+      "api": "https://tyyszy.com/api.php/provide/vod",
       "name": "天涯资源",
-      "type": "custom",
-      "url": "https://tyyszy.com/api.php/provide/vod"
+      "detail": "https://tyyszy.com"
     },
-    {
+    "xiaomao": {
+      "api": "https://zy.xiaomaomi.cc/api.php/provide/vod",
       "name": "小猫咪资源",
-      "type": "custom",
-      "url": "https://zy.xiaomaomi.cc/api.php/provide/vod"
+      "detail": "https://zy.xiaomaomi.cc"
     },
-    {
+    "ffzy": {
+      "api": "http://ffzy5.tv/api.php/provide/vod",
       "name": "非凡影视",
-      "type": "custom",
-      "url": "http://ffzy5.tv/api.php/provide/vod"
+      "detail": "http://ffzy5.tv"
     },
-    {
+    "heimuer": {
+      "api": "https://json.heimuer.xyz/api.php/provide/vod",
       "name": "黑木耳",
-      "type": "custom",
-      "url": "https://json.heimuer.xyz/api.php/provide/vod"
+      "detail": "https://heimuer.tv"
     },
-    {
+    "360zy": {
+      "api": "https://360zy.com/api.php/provide/vod",
       "name": "360资源",
-      "type": "custom",
-      "url": "https://360zy.com/api.php/provide/vod"
+      "detail": "https://360zy.com"
     },
-    {
+    "iqiyi_zy": {
+      "api": "https://www.iqiyizyapi.com/api.php/provide/vod",
       "name": "iqiyi资源",
-      "type": "custom",
-      "url": "https://www.iqiyizyapi.com/api.php/provide/vod"
+      "detail": "https://www.iqiyizyapi.com"
     },
-    {
+    "wolong": {
+      "api": "https://wolongzyw.com/api.php/provide/vod",
       "name": "卧龙资源",
-      "type": "custom",
-      "url": "https://wolongzyw.com/api.php/provide/vod"
-    },
-    {
-      "name": "华为吧资源",
-      "type": "custom",
-      "url": "https://cjhwba.com/api.php/provide/vod"
-    },
-    {
-      "name": "极速资源",
-      "type": "custom",
-      "url": "https://jszyapi.com/api.php/provide/vod"
-    },
-    {
-      "name": "豆瓣资源",
-      "type": "custom",
-      "url": "https://dbzy.com/api.php/provide/vod"
-    },
-    {
-      "name": "魔爪资源",
-      "type": "custom",
-      "url": "https://mozhuazy.com/api.php/provide/vod"
-    },
-    {
-      "name": "魔都资源",
-      "type": "custom",
-      "url": "https://www.mdzyapi.com/api.php/provide/vod"
-    },
-    {
-      "name": "樱花资源",
-      "type": "custom",
-      "url": "https://m3u8.apiyhzy.com/api.php/provide/vod"
-    },
-    {
-      "name": "百度云资源",
-      "type": "custom",
-      "url": "https://api.apibdzy.com/api.php/provide/vod"
-    },
-    {
-      "name": "无尽资源",
-      "type": "custom",
-      "url": "https://api.wujinapi.me/api.php/provide/vod"
-    },
-    {
-      "name": "旺旺短剧",
-      "type": "custom",
-      "url": "https://wwzy.tv/api.php/provide/vod"
-    },
-    {
-      "name": "iKun资源",
-      "type": "custom",
-      "url": "https://ikunzyapi.com/api.php/provide/vod"
-    },
-    {
-      "name": "CK资源",
-      "type": "custom",
-      "url": "https://www.ckzy1.com/api.php/provide/vod",
-      "isAdult": true
-    },
-    {
-      "name": "jkun资源",
-      "type": "custom",
-      "url": "https://jkunzyapi.com/api.php/provide/vod",
-      "isAdult": true
-    },
-    {
-      "name": "百万资源",
-      "type": "custom",
-      "url": "https://api.bwzym3u8.com/api.php/provide/vod",
-      "isAdult": true
-    },
-    {
-      "name": "souav资源",
-      "type": "custom",
-      "url": "https://api.souavzy.vip/api.php/provide/vod",
-      "isAdult": true
-    },
-    {
-      "name": "155资源",
-      "type": "custom",
-      "url": "https://155api.com/api.php/provide/vod",
-      "isAdult": true
-    },
-    {
-      "name": "lsb资源",
-      "type": "custom",
-      "url": "https://apilsbzy1.com/api.php/provide/vod",
-      "isAdult": true
-    },
-    {
-      "name": "黄色仓库",
-      "type": "custom",
-      "url": "https://hsckzy.vip/api.php/provide/vod",
-      "isAdult": true
-    },
-    {
-      "name": "玉兔资源",
-      "type": "custom",
-      "url": "https://yutuzy10.com/api.php/provide/vod",
-      "isAdult": true
+      "detail": "https://wolongzyw.com"
     }
-  ]
+    // ... 其他源按同样格式添加
+  }
 }
